@@ -1,0 +1,28 @@
+﻿“Privacy in the Age of AI: Navigating the Ethical Dimensions of Machine Learning”
+
+
+In a rapidly evolving landscape such as AI it remains vital that we keep up with any problems and complications that arise before they become a threat. The ethical dilemmas of privacy have surfaced as real issues, prompting numerous experts and political figures to take action. I will explore a triad of critical concerns about privacy which will include AI’s “black box” and how this allows it to collect and expand its data whilst ignoring government regulations, following from this we’ll see how this can see how an AI could potentially predict unsettling facts about people, and how AI doesn’t need consent to produce invasive media about an individual.
+In terms of complexity, an AI is unrivalled by any other thing constructed by humanity. It is so complicated that “not even the creators know how it works” (1). This allows for any ethically questionable billionaire to use private chat logs of their company to train an AI and get away with it since it currently remains impossible to know exactly what an AI was trained on. Building on from AI’s potentially unrestricted data access, its ability to recognize patterns prove to become another privacy issue. AI is increasingly able to gather information and connect points exponentially faster with each coming decade and this includes recognizing patterns within internet history. Whether it be tracking people down from decade old posts, or figuring out your exact food preferences based on that piece of beef jerky you stopped scrolling for a bit too long at. AI will undoubtedly predict private areas of your life such as a target (the shop) algorithm finding out a daughter was pregnant before her own father (5). Another threat to privacy AI possesses is the escalating threat posed by deep fakes which amplifies concerns about the invasion of privacy in the digital age. These AI-generated pieces of media allow nearly anyone to create realistic, lifelike, and unbounded videos of anyone saying anything . The fact that you can convincingly replicate one's appearance and voice creates a new dimension of privacy violation, challenging the notions of identity ownership and the right to control one's image. The ethical concerns here delves into the fact that whilst you used to be safe online if you didn’t post immature media, now any photo or video can be used to create another you. Already, problems are arising with women experiencing body dysmorphia due to this technology (3) and this problem will continue to escalate as currently, using just $500 (2), anyone can target any victim who was unfortunate enough to post a video of themselves online and create a realistic virtual avatar. As deep fakes continue to see an upwards trend in popularity (4) the requirements to achieve one will lower whilst the realism will only increase.
+As we stand, deep fakes, data collection, and AI transparency prove to be a challenge to upholding the rights and dignity of individuals. With each problem building onto the next, creating policies and pressuring companies to ensure the responsible use of such tools and the protection of individuals' right to privacy and self-expression is a must. The issues of AI’s violation of privacy have been briefly touched upon here as we are still at a pivotal moment and thoughtful navigation is a requirement to continue sailing towards a utopian future.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+References:
+
+
+1. https://www.youtube.com/watch?v=R9OHn5ZF4Uo&t=14s 
+2. https://arstechnica.com/science/2019/12/how-i-created-a-deepfake-of-mark-zuckerberg-and-star-treks-data/ 
+3. https://medium.com/@girlup.ugm/deep-fake-ai-the-new-era-of-objectification-of-women-cba19d7f349d#:~:text=One%20of%20the%20victims%20of,traction%20due%20to%20its%20contents. 
+4. https://trends.google.com/trends/explore?date=today%205-y&q=deep%20fake&hl=en 
+5. https://techland.time.com/2012/02/17/how-target-knew-a-high-school-girl-was-pregnant-before-her-parents/#:~:text=Turns%20out%20Target%20knew%20his,She%20really%20was%20pregnant.&text=It%20was%20a%20fact%20Target,shopper%20a%20unique%20Guest%20ID.
